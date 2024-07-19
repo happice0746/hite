@@ -1,0 +1,22 @@
+{
+  "name": "@hitejs/hite-monorepo",
+  "version": "1.0.0",
+  "description": "a mini vite can be used to build vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  },
+  "author": "happice",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.7.0",
+    "eslint": "9.x",
+    "eslint-plugin-vue": "^9.27.0",
+    "globals": "^15.8.0",
+    "typescript-eslint": "^7.16.1"
+  }
+}
